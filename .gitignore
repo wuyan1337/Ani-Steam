@@ -1,0 +1,11 @@
+.research/
+.tools/
+build/
+dist/
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+*.user
+*.log
+
